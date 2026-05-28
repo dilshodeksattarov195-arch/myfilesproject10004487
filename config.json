@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterdave",
+        "uuid": 27787991,
+        "checksum": "rs2t6o"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
